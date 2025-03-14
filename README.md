@@ -1,4 +1,5 @@
 # tradingbot-coinbase-allcoins-abovecertianliquidity
+DISCLAMER - THIS PROJECT IS FOR PORTFOLIO TO SHOW THAT I KNOW HOW TO DEVELOP CRYPTO TRADING BOT! USE IT ON YOUR RISK! THE DEVELOPER IS NOT RESPONSIBLE FOR POSSIBLE MONEY LOOSES OF THE USER!THIS IS EDUCATON PROJECT!
 Trading bot on coinbase aerodrome dex who trades all coins above certian liquidity with how much up percent buy stop loss and take profit
 how to setup?
 you need to create file .env in the same folder where bot is
